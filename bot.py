@@ -4,9 +4,9 @@ from telebot import TeleBot, types
 import redis
 
 token = ""
-bot = TeleBot(token)
+bot = TeleBot(381461854:AAHC5N3KAKHutWGoeiAoflgPeadYQ2hTmkM)
 admins = [
-    205746695
+    104657260
 ] # Admins
 db = redis.Redis("localhost", decode_responses=True)
 ''
