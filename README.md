@@ -15,7 +15,7 @@ apt install ruby
 
 gem install faceapp
 
-git clone https://github.com/prshrn/FaceAppBot
+git clone https://github.com/Paydar-robotic/FaceAppBot
 ```
 
 After you installed all of the needed things please edit the *bot.py* file and enter your ID and Bot Token (Get it from @BotFather) 
@@ -28,4 +28,4 @@ python3 bot.py
 
 ####Enjoy
 
-Contact me on telegram if you have any problem: @RealDev
+Contact me on telegram if you have any problem: @PaydarTeam
